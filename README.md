@@ -6,8 +6,9 @@ I only ask that you leave me as a reference,
 
 So before installing scikit-learn you need 
 Python (>= 2.6 or >= 3.3),
-NumPy (>= 1.6.1),
-SciPy (>= 0.9).
+numPy (>= 1.6.1),
+sciPy (>= 0.9).
+matplotlib (>=1.3)
 
 These can be easily installed using pip along with scikit-learn
 if having trouble please reference 
